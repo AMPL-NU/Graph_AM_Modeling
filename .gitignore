@@ -1,0 +1,8 @@
+main.ipynb
+results/
+processed/
+raw/
+.ipynb_checkpoints/
+tensorboard_viewer.ipynb
+Reports/.ipynb_checkpoints/
+__pycache__/
