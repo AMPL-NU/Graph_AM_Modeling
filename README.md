@@ -12,3 +12,4 @@ Authors:
 * Hui Lin
 
 References: (lets keep track of important references here)
+* https://github.com/rusty1s/pytorch_geometric 
