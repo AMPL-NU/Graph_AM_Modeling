@@ -1,6 +1,7 @@
 main.ipynb
 results/
 processed/
+temp_models/
 raw/
 .ipynb_checkpoints/
 tensorboard_viewer.ipynb
